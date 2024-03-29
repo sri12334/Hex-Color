@@ -1,1 +1,1 @@
-alert('init.js loaded!');
+import event from './events/event.js';

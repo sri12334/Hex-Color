@@ -1,6 +1,6 @@
 # Project name
 
-> Project definition
+> Random colors using HEX-CODES
 
 ## Table of contents
 
